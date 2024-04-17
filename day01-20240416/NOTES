@@ -1,0 +1,22 @@
+
+
+        
+Java runs in a JVM (Java Virtual Machine)
+
+                            javac *.java     (.class)       java Main
+Source Code (*.java) --------------------- JVM Bytecode --------------- Exec
+    
+    
+
+But C has native code that executes natively on the machine.
+                    
+                        gcc *.c
+Source code (*.c) ---------------- Machine code (native code) ------- a.out (exec)
+
+That is why, java is a cross-platform programming language system.
+
+
+    JDK = Java Development Kit (OpenJDK 21)
+    You can freely use OpenJDK, OpenJRE for commmercial purpose.
+    
+    timuskuwor@gmail.com
