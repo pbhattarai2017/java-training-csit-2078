@@ -16,9 +16,12 @@ public class DayThree {
         for(int i = 1; i <= 9; i ++) {
             n = input.nextInt();
             sum = sum + n;
+            if(<condition>) {
+            }
             // check if n is greater than max; if so max = n
             // check if n is smaller than min; if so min = n
         }
+        
         float avg = sum / 10;
         
         System.out.println("Min: " + min);
