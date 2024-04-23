@@ -16,10 +16,7 @@ public class Pattern {
         NEPATH__
         NEPATHY_
         NEPATHYA
-        
-        
-        
-        
+                
         //Nested loop
         *****
         *###*
