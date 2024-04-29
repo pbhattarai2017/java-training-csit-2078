@@ -1,0 +1,16 @@
+Write a program to test if the given number
+is prime or not.
+
+A number is prime if
+    - number is not exactly divisible by
+        any number except by itself & 1
+
+For diagonal problem:
+        *(0,2)
+    *(1,1)
+*(2,0)
+r = 0, 1, 2        & c = 2, 1, 0
+See the pattern for (r, c).
+
+
+
