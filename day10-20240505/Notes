@@ -1,0 +1,21 @@
+		11:05:00PM
+		23-12 = 11
+		
+		hh-> 1,2,3,...,11
+			
+		
+		if PM
+            add 12 to hh
+            
+        String time = "07:05:45PM";
+        String[] parts = time.split(":");
+        
+        // print the parts array
+        
+        
+        time.split(":") -> [ "07", "05", "45PM" ];
+        
+        Integer.parse("07") -> 7
+        
+        Integer.parse(   "45PM".substr(0,2)      );
+		
