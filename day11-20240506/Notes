@@ -1,0 +1,21 @@
+1. Write a program to test whether the given number is prime or not.
+    Get a number from user
+    
+    Print "Prime"       if the number is so
+    Print "Not Prime"   otherwise
+    
+Divide the number N by every number between i  (1, N).
+    If none of the numbers i divide N, then N is prime.
+    
+2. Generate a list of primes less than N 
+    Example: N = 10
+    2
+    3
+    5
+    7
+
+3. Create a method "isPrime(N)" that returns boolean accordingly.
+
+4. Write a program to generate a list of random numbers
+    Any size, any cycle.
+    
