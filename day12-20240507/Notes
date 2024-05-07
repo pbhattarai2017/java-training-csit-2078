@@ -1,0 +1,12 @@
+Write a program to generate 10 random numbers.
+    
+    Use this formula,
+    r(i) = ( r(i - 1) * A + B ) % C
+    
+    A, B & C are constants
+    r(i) is a random number
+    C is the maximum limit of number
+
+Use this random number generator to suggest a new password.
+Extra: Also allow user to choose password strength weak, medium or strong.
+
