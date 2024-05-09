@@ -1,0 +1,20 @@
+Write a program to simulate a tic-tac-toe game.
+Computer vs Human
+
+ o |   |
+-----------
+ x | o |
+-----------
+   | x | o
+
+Create a Nepali calendar for current month
+Start of month = SAT
+Total days = 31
+
+SUN MON TUE WED THU FRI SAT
+                          1
+  2   3   4   5   6   7   8
+  ...and so on.
+
+Write a typing speed test program. Use System.currentTimeMillis() to 
+keep track of time.
