@@ -1,0 +1,10 @@
+Continue on Tic-Tac-Toe game
+
+1) Draw the current state of the board
+2) Get next position (1 - 9) as input from user IF there are remaining positions left
+3) Check if given position is valid (is empty);
+4) If given position is valid; put the symbol (X or O; according to turn)
+5) Check for winning state; (horizontal, vertical and diagonals)
+6) If there is winning condition; declare the current player as Winner.
+7) Else go to (1)
+
