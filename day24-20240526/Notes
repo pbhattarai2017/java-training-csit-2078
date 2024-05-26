@@ -1,0 +1,15 @@
+Write a program to display the movement of a turtle in the
+screen according to the given actions.
+
+_______________________
+|*      ***           |             input:
+|*      * *           |             MOVE 1 1
+|*      * *           |             DOWN 5
+|*      * *           |             RIGHT 7
+|******** *           |             UP 4
+|                     |             RIGHT 2
+|                     |             DOWN 4
+|                     |             END    
+|                     |  
+|                     |
+-----------------------
