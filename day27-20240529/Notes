@@ -1,0 +1,16 @@
+Scanner input = new Scanner(System.in);
+
+String token;
+
+while(input.hasNext()) {
+    token = input.next();
+    
+    // check if token is a number or an operator
+    
+    // if number: push to stack/array
+    
+    // if operator: pop two numbers from stack and apply operator and push the result to stack.
+    
+}
+
+pop the last number from stack; print that number since it the final result of calculation.
