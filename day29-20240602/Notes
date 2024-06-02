@@ -1,0 +1,18 @@
+Given a date, express that date using moment.
+    For example:                                
+        Input: 2024-06-02                      
+        Output: Today                        
+                                            
+        Input: 2024-06-01                       
+        Output: Yesterday                      You can use 
+                                               Date now = new Date();
+        Input: 2024-05-25                      to get current date.
+        Output: A week ago
+        
+        Input: 2024-05-03
+        Output: A month ago
+        
+        Input: 2022-06-01
+        Output: Two years ago
+
+Continue on RPN evaluation problem.
