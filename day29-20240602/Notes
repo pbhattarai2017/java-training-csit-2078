@@ -15,4 +15,11 @@ Given a date, express that date using moment.
         Input: 2022-06-01
         Output: Two years ago
 
-Continue on RPN evaluation problem.
+Continue on RPN evaluation problem. Can your program evaluate: 
+(- b + sqrt(b^2 - 4ac)) / 2a
+    b ~ b 2 ^ 4 a c * * - 0.5 ^ + 2 a * /
+
+    ~ - it is a unary minus
+    
+Get a, b & c from user.
+2 3 - 5 +
