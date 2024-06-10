@@ -1,0 +1,10 @@
+
+
+
+Modify the RPN program so that
+    
+    - it gives correct result 50% of the time;
+    
+    
+If you run the program for 10 times. It should give correct result only for 5 times in average.
+
